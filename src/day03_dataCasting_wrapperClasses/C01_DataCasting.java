@@ -1,6 +1,7 @@
 package day03_dataCasting_wrapperClasses;
 
 public class C01_DataCasting {
+    // git kurulumnuzda herhangı bır problem yok sızın gıthub hesabınız var mı ? push vs yaptınız mı
 
     public static void main(String[] args) {
 
