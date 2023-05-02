@@ -4,24 +4,24 @@ public class C05_accessModifier {
     public C05_accessModifier (){
     }
     private String privateStr;
-    String defaultStr;
+    public String defaultStr;
     protected String protectedStr;
     public String publicStr;
     private static int privateStaticSayi;
-    static int defaultStaticSayi;
+    public static int defaultStaticSayi;
     protected static int protectedStaticSayi;
     public static int publicStaticSayi;
     private void privateMethod(){
     }
     void defaultMethod(){
     }
-    protected void protectedMethod(){
+    public void protectedMethod(){
     }
     public void publicMethod(){
     }
     private static void privateStaticMethod(){
     }
-    static void defaultStaticMethod(){
+    public static void defaultStaticMethod(){
     }
     protected static void protectedStaticMethod(){
     }
