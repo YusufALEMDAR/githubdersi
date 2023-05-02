@@ -1,7 +1,7 @@
-package day22_stringBuilder_accessModifier;
+package day23_encapsulation_inheritance;
 
 public class C05_accessModifier {
-    C05_accessModifier (){
+    public C05_accessModifier (){
     }
     private String privateStr;
     String defaultStr;

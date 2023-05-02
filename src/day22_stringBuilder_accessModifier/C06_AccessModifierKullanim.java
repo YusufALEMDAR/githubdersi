@@ -1,5 +1,7 @@
 package day22_stringBuilder_accessModifier;
 
+import day23_encapsulation_inheritance.C05_accessModifier;
+
 public class C06_AccessModifierKullanim {
     public static void main(String[] args) {
         // baska class'daki static class uyelerinden
