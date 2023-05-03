@@ -8,3 +8,4 @@ public class DAraba {
     String motor= "Arabalarda motor olur";
     String marka="Arabalarda marka olur";
 }
+
