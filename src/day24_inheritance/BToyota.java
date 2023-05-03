@@ -12,3 +12,4 @@ public class BToyota extends Araba {
     }
 
 }
+
